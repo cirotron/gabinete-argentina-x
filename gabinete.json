@@ -1,0 +1,56 @@
+[
+  {
+    "cargo": "Presidente",
+    "nombre": "Javier Milei",
+    "x": "@javiermilei",
+    "link": "https://x.com/javiermilei"
+  },
+  {
+    "cargo": "Vicepresidente",
+    "nombre": "Victoria Villarruel",
+    "x": "@vickyvillarruel",
+    "link": "https://x.com/vickyvillarruel"
+  },
+  {
+    "cargo": "Jefe de Gabinete",
+    "nombre": "Guillermo Francos",
+    "x": "@guillermofrancos",
+    "link": "https://x.com/guillermofrancos"
+  },
+  {
+    "cargo": "Ministro de Economía",
+    "nombre": "Luis Caputo",
+    "x": "@luiscaputo",
+    "link": "https://x.com/luiscaputo"
+  },
+  {
+    "cargo": "Ministro de Defensa",
+    "nombre": "Luis Petri",
+    "x": "@luispetri",
+    "link": "https://x.com/luispetri"
+  },
+  {
+    "cargo": "Ministro de Justicia",
+    "nombre": "Mariano Cúneo Libarona",
+    "x": "@marianoclibarona",
+    "link": "https://x.com/marianoclibarona"
+  },
+  {
+    "cargo": "Ministro de Relaciones Exteriores",
+    "nombre": "Gerardo Werthein",
+    "x": "@gerardowerthein",
+    "link": "https://x.com/gerardowerthein"
+  },
+  {
+    "cargo": "Ministro de Salud",
+    "nombre": "Mario Lugones",
+    "x": "@mariolugones",
+    "link": "https://x.com/mariolugones"
+  },
+  {
+    "cargo": "Ministro de Seguridad Nacional",
+    "nombre": "Patricia Bullrich",
+    "x": "@pmbullrich",
+    "link": "https://x.com/pmbullrich"
+  }
+]
