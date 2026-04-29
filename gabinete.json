@@ -13,9 +13,9 @@
   },
   {
     "cargo": "Jefe de Gabinete",
-    "nombre": "Guillermo Francos",
-    "x": "@guillermofrancos",
-    "link": "https://x.com/guillermofrancos"
+    "nombre": "Manuel Adorni",
+    "x": "@madorni",
+    "link": "https://x.com/madorni"
   },
   {
     "cargo": "Ministro de Economía",
@@ -24,22 +24,28 @@
     "link": "https://x.com/luiscaputo"
   },
   {
+    "cargo": "Ministro del Interior",
+    "nombre": "Diego Santilli",
+    "x": "@diegosantilli",
+    "link": "https://x.com/diegosantilli"
+  },
+  {
     "cargo": "Ministro de Defensa",
-    "nombre": "Luis Petri",
-    "x": "@luispetri",
-    "link": "https://x.com/luispetri"
+    "nombre": "Carlos Presti",
+    "x": null,
+    "link": null
   },
   {
     "cargo": "Ministro de Justicia",
-    "nombre": "Mariano Cúneo Libarona",
-    "x": "@marianoclibarona",
-    "link": "https://x.com/marianoclibarona"
+    "nombre": "Juan Mahiques",
+    "x": null,
+    "link": null
   },
   {
     "cargo": "Ministro de Relaciones Exteriores",
-    "nombre": "Gerardo Werthein",
-    "x": "@gerardowerthein",
-    "link": "https://x.com/gerardowerthein"
+    "nombre": "Pablo Quirno",
+    "x": "@pabloquirno",
+    "link": "https://x.com/pabloquirno"
   },
   {
     "cargo": "Ministro de Salud",
@@ -48,9 +54,9 @@
     "link": "https://x.com/mariolugones"
   },
   {
-    "cargo": "Ministro de Seguridad Nacional",
-    "nombre": "Patricia Bullrich",
-    "x": "@pmbullrich",
-    "link": "https://x.com/pmbullrich"
+    "cargo": "Ministra de Seguridad",
+    "nombre": "Alejandra Monteoliva",
+    "x": null,
+    "link": null
   }
 ]
