@@ -1,62 +1,98 @@
-[
-  {
-    "cargo": "Presidente",
-    "nombre": "Javier Milei",
-    "x": "@javiermilei",
-    "link": "https://x.com/javiermilei"
-  },
-  {
-    "cargo": "Vicepresidente",
-    "nombre": "Victoria Villarruel",
-    "x": "@vickyvillarruel",
-    "link": "https://x.com/vickyvillarruel"
-  },
-  {
-    "cargo": "Jefe de Gabinete",
-    "nombre": "Manuel Adorni",
-    "x": "@madorni",
-    "link": "https://x.com/madorni"
-  },
-  {
-    "cargo": "Ministro de Economía",
-    "nombre": "Luis Caputo",
-    "x": "@luiscaputo",
-    "link": "https://x.com/luiscaputo"
-  },
-  {
-    "cargo": "Ministro del Interior",
-    "nombre": "Diego Santilli",
-    "x": "@diegosantilli",
-    "link": "https://x.com/diegosantilli"
-  },
-  {
-    "cargo": "Ministro de Defensa",
-    "nombre": "Carlos Presti",
-    "x": null,
-    "link": null
-  },
-  {
-    "cargo": "Ministro de Justicia",
-    "nombre": "Juan Mahiques",
-    "x": null,
-    "link": null
-  },
-  {
-    "cargo": "Ministro de Relaciones Exteriores",
-    "nombre": "Pablo Quirno",
-    "x": "@pabloquirno",
-    "link": "https://x.com/pabloquirno"
-  },
-  {
-    "cargo": "Ministro de Salud",
-    "nombre": "Mario Lugones",
-    "x": "@mariolugones",
-    "link": "https://x.com/mariolugones"
-  },
-  {
-    "cargo": "Ministra de Seguridad",
-    "nombre": "Alejandra Monteoliva",
-    "x": null,
-    "link": null
-  }
-]
+{
+  "grupos": [
+    {
+      "id": "gabinete-formal",
+      "nombre": "Gabinete Formal",
+      "descripcion": "Ministros y funcionarios con cargo oficial en el Poder Ejecutivo Nacional.",
+      "color": "#1565C0",
+      "miembros": [
+        {
+          "cargo": "Presidente",
+          "nombre": "Javier Milei",
+          "x": "@javiermilei",
+          "link": "https://x.com/javiermilei"
+        },
+        {
+          "cargo": "Vicepresidente",
+          "nombre": "Victoria Villarruel",
+          "x": "@vickyvillarruel",
+          "link": "https://x.com/vickyvillarruel"
+        },
+        {
+          "cargo": "Jefe de Gabinete",
+          "nombre": "Manuel Adorni",
+          "x": "@madorni",
+          "link": "https://x.com/madorni"
+        },
+        {
+          "cargo": "Ministro de Economía",
+          "nombre": "Luis Caputo",
+          "x": "@luiscaputo",
+          "link": "https://x.com/luiscaputo"
+        },
+        {
+          "cargo": "Ministro del Interior",
+          "nombre": "Diego Santilli",
+          "x": "@diegosantilli",
+          "link": "https://x.com/diegosantilli"
+        },
+        {
+          "cargo": "Ministro de Defensa",
+          "nombre": "Carlos Presti",
+          "x": null,
+          "link": null
+        },
+        {
+          "cargo": "Ministro de Justicia",
+          "nombre": "Juan Mahiques",
+          "x": null,
+          "link": null
+        },
+        {
+          "cargo": "Ministro de Relaciones Exteriores",
+          "nombre": "Pablo Quirno",
+          "x": "@pabloquirno",
+          "link": "https://x.com/pabloquirno"
+        },
+        {
+          "cargo": "Ministro de Salud",
+          "nombre": "Mario Lugones",
+          "x": "@mariolugones",
+          "link": "https://x.com/mariolugones"
+        },
+        {
+          "cargo": "Ministra de Seguridad",
+          "nombre": "Alejandra Monteoliva",
+          "x": null,
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": "triangulo-de-hierro",
+      "nombre": "Triángulo de Hierro",
+      "descripcion": "Núcleo informal de poder. Define la estrategia política, comunicacional y el armado territorial del Gobierno.",
+      "color": "#B71C1C",
+      "miembros": [
+        {
+          "cargo": "Presidente",
+          "nombre": "Javier Milei",
+          "x": "@javiermilei",
+          "link": "https://x.com/javiermilei"
+        },
+        {
+          "cargo": "Secretaria General de la Presidencia",
+          "nombre": "Karina Milei",
+          "x": "@KarinaMileiOk",
+          "link": "https://x.com/KarinaMileiOk"
+        },
+        {
+          "cargo": "Asesor Presidencial",
+          "nombre": "Santiago Caputo",
+          "x": null,
+          "link": null
+        }
+      ]
+    }
+  ]
+}
