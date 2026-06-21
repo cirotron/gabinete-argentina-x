@@ -65,6 +65,24 @@
           "nombre": "Alejandra Monteoliva",
           "x": null,
           "link": null
+        },
+        {
+          "cargo": "Ministra de Capital Humano",
+          "nombre": "Sandra Pettovello",
+          "x": "@SPettovelloOK",
+          "link": "https://x.com/SPettovelloOK"
+        },
+        {
+          "cargo": "Ministro de Desregulación y Transformación del Estado",
+          "nombre": "Federico Sturzenegger",
+          "x": "@fedesturzenegger",
+          "link": "https://x.com/fedesturzenegger"
+        },
+        {
+          "cargo": "Vocero Presidencial",
+          "nombre": "Adrián Ravier",
+          "x": "@AdrianRavier",
+          "link": "https://x.com/AdrianRavier"
         }
       ]
     },
