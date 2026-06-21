@@ -93,6 +93,160 @@
           "link": null
         }
       ]
+    },
+    {
+      "id": "equipo-economico",
+      "nombre": "Equipo Económico",
+      "descripcion": "Los funcionarios que definen la política económica y monetaria del Gobierno.",
+      "color": "#1B5E20",
+      "miembros": [
+        {
+          "cargo": "Ministro de Economía",
+          "nombre": "Luis Caputo",
+          "x": "@luiscaputo",
+          "link": "https://x.com/luiscaputo"
+        },
+        {
+          "cargo": "Presidente del BCRA",
+          "nombre": "Santiago Bausili",
+          "x": null,
+          "link": null
+        },
+        {
+          "cargo": "Ministro de Desregulación y Transformación del Estado",
+          "nombre": "Federico Sturzenegger",
+          "x": "@fedesturzenegger",
+          "link": "https://x.com/fedesturzenegger"
+        }
+      ]
+    },
+    {
+      "id": "bloque-lla",
+      "nombre": "Bloque Legislativo LLA",
+      "descripcion": "Referentes del bloque de La Libertad Avanza en el Congreso. 95 diputados y 21 senadores tras las elecciones de 2025.",
+      "color": "#4A148C",
+      "miembros": [
+        {
+          "cargo": "Presidente de la Cámara de Diputados",
+          "nombre": "Martín Menem",
+          "x": "@MenemMartin",
+          "link": "https://x.com/MenemMartin"
+        },
+        {
+          "cargo": "Jefe del Bloque de Diputados LLA",
+          "nombre": "Gabriel Bornoroni",
+          "x": "@bornoronig",
+          "link": "https://x.com/bornoronig"
+        },
+        {
+          "cargo": "Jefa del Bloque de Senadores LLA",
+          "nombre": "Patricia Bullrich",
+          "x": "@PatoBullrich",
+          "link": "https://x.com/PatoBullrich"
+        },
+        {
+          "cargo": "Presidenta del Partido LLA",
+          "nombre": "Karina Milei",
+          "x": "@KarinaMileiOk",
+          "link": "https://x.com/KarinaMileiOk"
+        }
+      ]
+    },
+    {
+      "id": "aliados-clave",
+      "nombre": "Aliados Clave",
+      "descripcion": "Fuerzas externas al oficialismo que sostienen la gobernabilidad en el Congreso. Sin ellos, el Gobierno no tiene mayoría.",
+      "color": "#E65100",
+      "miembros": [
+        {
+          "cargo": "Expresidente / Líder del PRO",
+          "nombre": "Mauricio Macri",
+          "x": "@mauriciomacri",
+          "link": "https://x.com/mauriciomacri"
+        },
+        {
+          "cargo": "Gobernador de Santa Fe",
+          "nombre": "Maximiliano Pullaro",
+          "x": "@maxipullaro",
+          "link": "https://x.com/maxipullaro"
+        },
+        {
+          "cargo": "Gobernador de Córdoba",
+          "nombre": "Martín Llaryora",
+          "x": "@MartinLlaryora",
+          "link": "https://x.com/MartinLlaryora"
+        }
+      ]
+    },
+    {
+      "id": "opositores-principales",
+      "nombre": "Opositores Principales",
+      "descripcion": "Líderes de la oposición peronista con mayor peso político e intención de voto hacia 2027.",
+      "color": "#37474F",
+      "miembros": [
+        {
+          "cargo": "Expresidenta / Referente del Kirchnerismo",
+          "nombre": "Cristina Fernández de Kirchner",
+          "x": "@CFKArgentina",
+          "link": "https://x.com/CFKArgentina"
+        },
+        {
+          "cargo": "Gobernador de Buenos Aires",
+          "nombre": "Axel Kicillof",
+          "x": "@Kicillofok",
+          "link": "https://x.com/Kicillofok"
+        },
+        {
+          "cargo": "Expresidente de la Cámara de Diputados",
+          "nombre": "Sergio Massa",
+          "x": "@SergioMassa",
+          "link": "https://x.com/SergioMassa"
+        }
+      ]
+    },
+    {
+      "id": "gobernadores-dialoguistas",
+      "nombre": "Gobernadores Dialoguistas",
+      "descripcion": "Mandatarios provinciales que mantienen diálogo fluido con el Gobierno nacional y son clave para la aprobación de leyes.",
+      "color": "#00695C",
+      "miembros": [
+        {
+          "cargo": "Gobernador de San Juan",
+          "nombre": "Marcelo Orrego",
+          "x": null,
+          "link": null
+        },
+        {
+          "cargo": "Gobernador de Chaco",
+          "nombre": "Leandro Zdero",
+          "x": "@LeandroZdero",
+          "link": "https://x.com/LeandroZdero"
+        },
+        {
+          "cargo": "Gobernador de Entre Ríos",
+          "nombre": "Rogelio Frigerio",
+          "x": null,
+          "link": null
+        },
+        {
+          "cargo": "Gobernador de Neuquén",
+          "nombre": "Rolando Figueroa",
+          "x": null,
+          "link": null
+        },
+        {
+          "cargo": "Gobernador de Chubut",
+          "nombre": "Ignacio Torres",
+          "x": null,
+          "link": null
+        },
+        {
+          "cargo": "Gobernador de Jujuy",
+          "nombre": "Carlos Sadir",
+          "x": null,
+          "link": null
+        }
+      ]
     }
   ]
 }
