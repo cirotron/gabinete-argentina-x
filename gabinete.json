@@ -265,6 +265,38 @@
           "link": null
         }
       ]
+    },
+    {
+      "id": "secretarios",
+      "nombre": "Secretarías de la Presidencia",
+      "descripcion": "Secretarios con rango inferior al ministerial que asisten directamente al Presidente en áreas clave de gestión y comunicación.",
+      "color": "#5D4037",
+      "miembros": [
+        {
+          "cargo": "Secretaria General de la Presidencia",
+          "nombre": "Karina Milei",
+          "x": "@KarinaMileiOk",
+          "link": "https://x.com/KarinaMileiOk"
+        },
+        {
+          "cargo": "Secretaria Legal y Técnica",
+          "nombre": "María Ibarzabal Murphy",
+          "x": null,
+          "link": null
+        },
+        {
+          "cargo": "Secretario de Comunicación y Prensa",
+          "nombre": "Javier Lanari",
+          "x": null,
+          "link": null
+        },
+        {
+          "cargo": "Vocero Presidencial",
+          "nombre": "Adrián Ravier",
+          "x": "@AdrianRavier",
+          "link": "https://x.com/AdrianRavier"
+        }
+      ]
     }
   ]
 }
