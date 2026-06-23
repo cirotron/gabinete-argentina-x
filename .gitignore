@@ -1,0 +1,23 @@
+# Credenciales y Configuración Local
+config.json
+
+# Scripts y Documentos de Monitoreo Local
+monitorear_gabinete.py
+deploy_remoto.py
+programar_tarea.ps1
+PLAN_MONITOREO.md
+
+# Archivos de Registro (Logs)
+*.log
+*.txt
+
+# Archivos temporales de pruebas del raspador
+bora_api_response.json
+bora_api_session_response.json
+bora_detail.html
+bora_primera.html
+busqueda.js
+*.html
+*.js
+*.json
+!gabinete.json
