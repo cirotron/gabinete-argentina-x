@@ -52,9 +52,14 @@
 
                     grupo.miembros.forEach(persona => {
                         const tr = document.createElement('tr');
-                        const cuentaCell = persona.x && persona.link
-                            ? `<a href="${persona.link}" target="_blank" rel="noopener">${persona.x}</a>`
-                            : `<span class="sin-cuenta">—</span>`;
+                        let cuentaCell = `<span class="sin-cuenta">—</span>`;
+                        if (persona.x && persona.link) {
+                            if (persona.es_cuenta_institucional) {
+                                cuentaCell = `<a href="${persona.link}" target="_blank" rel="noopener" class="cuenta-institucional" title="Cuenta institucional del organismo que representa">🏛️ ${persona.x}</a>`;
+                            } else {
+                                cuentaCell = `<a href="${persona.link}" target="_blank" rel="noopener">${persona.x}</a>`;
+                            }
+                        }
 
                         tr.innerHTML = `
                             <td>${persona.cargo}</td>

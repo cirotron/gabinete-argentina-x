@@ -81,3 +81,18 @@ a:hover {
 .sin-cuenta {
     color: #bbb;
 }
+
+/* Cuenta Institucional */
+.cuenta-institucional {
+    color: #546E7A;
+    font-style: italic;
+    font-size: 0.9rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.cuenta-institucional:hover {
+    color: #37474F;
+    text-decoration: underline;
+}

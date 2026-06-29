@@ -33,14 +33,16 @@
         {
           "cargo": "Ministro de Defensa",
           "nombre": "Carlos Presti",
-          "x": null,
-          "link": null
+          "x": "@MindefArg",
+          "link": "https://x.com/MindefArg",
+          "es_cuenta_institucional": true
         },
         {
           "cargo": "Ministro de Justicia",
           "nombre": "Juan Mahiques",
-          "x": null,
-          "link": null
+          "x": "@jusgobar",
+          "link": "https://x.com/jusgobar",
+          "es_cuenta_institucional": true
         },
         {
           "cargo": "Ministro de Relaciones Exteriores",
@@ -57,8 +59,9 @@
         {
           "cargo": "Ministra de Seguridad",
           "nombre": "Alejandra Monteoliva",
-          "x": null,
-          "link": null
+          "x": "@MinSeg",
+          "link": "https://x.com/MinSeg",
+          "es_cuenta_institucional": true
         },
         {
           "cargo": "Ministra de Capital Humano",
@@ -121,8 +124,9 @@
         {
           "cargo": "Presidente del BCRA",
           "nombre": "Santiago Bausili",
-          "x": null,
-          "link": null
+          "x": "@BancoCentral_AR",
+          "link": "https://x.com/BancoCentral_AR",
+          "es_cuenta_institucional": true
         },
         {
           "cargo": "Ministro de Desregulación y Transformación del Estado",
@@ -275,14 +279,16 @@
         {
           "cargo": "Secretaria Legal y Técnica",
           "nombre": "María Ibarzabal Murphy",
-          "x": null,
-          "link": null
+          "x": "@CasaRosada",
+          "link": "https://x.com/CasaRosada",
+          "es_cuenta_institucional": true
         },
         {
           "cargo": "Secretario de Comunicación y Prensa",
           "nombre": "Javier Lanari",
-          "x": null,
-          "link": null
+          "x": "@Voceria_Ar",
+          "link": "https://x.com/Voceria_Ar",
+          "es_cuenta_institucional": true
         },
         {
           "cargo": "Vocero Presidencial",
@@ -301,26 +307,30 @@
         {
           "cargo": "Presidente de la Corte Suprema",
           "nombre": "Horacio Rosatti",
-          "x": null,
-          "link": null
+          "x": "@CorteSupremaAr",
+          "link": "https://x.com/CorteSupremaAr",
+          "es_cuenta_institucional": true
         },
         {
           "cargo": "Vicepresidente de la Corte Suprema",
           "nombre": "Carlos Rosenkrantz",
-          "x": null,
-          "link": null
+          "x": "@CorteSupremaAr",
+          "link": "https://x.com/CorteSupremaAr",
+          "es_cuenta_institucional": true
         },
         {
           "cargo": "Ministro de la Corte Suprema",
           "nombre": "Ricardo Lorenzetti",
-          "x": null,
-          "link": null
+          "x": "@CorteSupremaAr",
+          "link": "https://x.com/CorteSupremaAr",
+          "es_cuenta_institucional": true
         },
         {
           "cargo": "Ministro de la Corte Suprema",
           "nombre": "Juan Carlos Maqueda",
-          "x": null,
-          "link": null
+          "x": "@CorteSupremaAr",
+          "link": "https://x.com/CorteSupremaAr",
+          "es_cuenta_institucional": true
         }
       ]
     },
@@ -403,8 +413,9 @@
         {
           "cargo": "Secretario General CGT (Camioneros)",
           "nombre": "Pablo Moyano",
-          "x": null,
-          "link": null
+          "x": "@infocamioneros",
+          "link": "https://x.com/infocamioneros",
+          "es_cuenta_institucional": true
         },
         {
           "cargo": "Sec. Relaciones Internacionales CGT (UOCRA)",
@@ -415,8 +426,9 @@
         {
           "cargo": "Secretario General CGT (SOESGyPE)",
           "nombre": "Carlos Acuña",
-          "x": null,
-          "link": null
+          "x": "@cgtoficialok",
+          "link": "https://x.com/cgtoficialok",
+          "es_cuenta_institucional": true
         }
       ]
     },
@@ -435,20 +447,23 @@
         {
           "cargo": "Presidente de la UIA",
           "nombre": "Daniel Funes de Rioja",
-          "x": null,
-          "link": null
+          "x": "@UIA_Oficial",
+          "link": "https://x.com/UIA_Oficial",
+          "es_cuenta_institucional": true
         },
         {
           "cargo": "CEO de Grupo Techint",
           "nombre": "Paolo Rocca",
-          "x": null,
-          "link": null
+          "x": "@GrupoTechint",
+          "link": "https://x.com/GrupoTechint",
+          "es_cuenta_institucional": true
         },
         {
           "cargo": "Presidente de Pan American Energy",
           "nombre": "Alejandro Bulgheroni",
-          "x": null,
-          "link": null
+          "x": "@PAEargentina",
+          "link": "https://x.com/PAEargentina",
+          "es_cuenta_institucional": true
         }
       ]
     }
