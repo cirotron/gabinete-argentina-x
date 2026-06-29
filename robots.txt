@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cirotron.github.io/gabinete-argentina-x/sitemap.xml

@@ -21,3 +21,4 @@ busqueda.js
 *.js
 *.json
 !gabinete.json
+!robots.txt
