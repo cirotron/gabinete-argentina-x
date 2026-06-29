@@ -21,12 +21,18 @@ La información se presenta como una página web generada con **GitHub Pages**, 
 | Grupo | Descripción |
 |---|---|
 | 🔵 **Gabinete Formal** | Ministros y funcionarios con cargo oficial en el Poder Ejecutivo |
-| 🔴 **Triángulo de Hierro** | Núcleo informal de poder: Milei, Karina y Santiago Caputo |
-| 🟢 **Equipo Económico** | Funcionarios que definen la política económica y monetaria |
-| 🟣 **Bloque Legislativo LLA** | Referentes de La Libertad Avanza en el Congreso |
-| 🟠 **Aliados Clave** | Fuerzas externas que sostienen la gobernabilidad (PRO, gobernadores dialoguistas) |
-| ⚫ **Opositores Principales** | Líderes de la oposición peronista con mayor peso hacia 2027 |
-| 🩵 **Gobernadores Dialoguistas** | Mandatarios provinciales con diálogo fluido con el Gobierno nacional |
+| 🔴 **Triángulo de Hierro** | Núcleo informal y estratégico de poder: Milei, Karina y Santiago Caputo |
+| 🟢 **Equipo Económico** | Funcionarios y asesores que definen la política económica y monetaria |
+| 🟣 **Bloque Legislativo LLA** | Referentes de La Libertad Avanza en el Senado y Cámara de Diputados |
+| 🟠 **Aliados Clave** | Fuerzas externas y socios políticos que sostienen la gobernabilidad del oficialismo |
+| ⚫ **Opositores Principales** | Líderes de la oposición kirchnerista y peronista con proyección nacional |
+| 🩵 **Gobernadores Dialoguistas** | Mandatarios provinciales con diálogo y apoyo legislativo al Gobierno nacional |
+| 🟫 **Secretarías de la Presidencia** | Secretarios con rango ministerial que asisten directamente al Presidente |
+| ⚖️ **Poder Judicial** | Miembros de la Corte Suprema de Justicia de la Nación |
+| 🟡 **Oposición Legislativa Dialoguista** | Referentes del centro en el Congreso que definen la aprobación de leyes (PRO, UCR, Encuentro Federal) |
+| 🚩 **Gobernadores Opositores** | Mandatarios provinciales no dialoguistas (kirchnerismo y aliados duros) |
+| 👥 **Poder Sindical** | Cúpula y secretarios generales de la Confederación General del Trabajo (CGT) |
+| 💼 **Poder Económico (Círculo Rojo)** | Líderes empresariales de cámaras y grandes corporaciones privadas de Argentina |
 
 ---
 
@@ -47,7 +53,8 @@ El archivo `gabinete.json` tiene la siguiente estructura:
           "cargo": "Cargo del funcionario",
           "nombre": "Nombre completo",
           "x": "@handle",
-          "link": "https://x.com/handle"
+          "link": "https://x.com/handle",
+          "es_cuenta_institucional": true
         }
       ]
     }
@@ -55,7 +62,7 @@ El archivo `gabinete.json` tiene la siguiente estructura:
 }
 ```
 
-> Los campos `x` y `link` pueden ser `null` si el funcionario no tiene cuenta pública verificada en X.
+> Los campos `x` y `link` pueden ser `null` si la persona no tiene cuenta oficial. Si no posee cuenta personal pero el organismo o corporación que representa sí la tiene, se incluye dicho handle con la bandera `"es_cuenta_institucional": true`.
 
 ---
 
