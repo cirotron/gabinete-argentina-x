@@ -229,8 +229,8 @@
         {
           "cargo": "Gobernador de San Juan",
           "nombre": "Marcelo Orrego",
-          "x": null,
-          "link": null
+          "x": "@DrMarceloOrrego",
+          "link": "https://x.com/DrMarceloOrrego"
         },
         {
           "cargo": "Gobernador de Chaco",
@@ -241,26 +241,26 @@
         {
           "cargo": "Gobernador de Entre Ríos",
           "nombre": "Rogelio Frigerio",
-          "x": null,
-          "link": null
+          "x": "@frigeriorogelio",
+          "link": "https://x.com/frigeriorogelio"
         },
         {
           "cargo": "Gobernador de Neuquén",
           "nombre": "Rolando Figueroa",
-          "x": null,
-          "link": null
+          "x": "@Rolo_Figueroa",
+          "link": "https://x.com/Rolo_Figueroa"
         },
         {
           "cargo": "Gobernador de Chubut",
           "nombre": "Ignacio Torres",
-          "x": null,
-          "link": null
+          "x": "@NachoTorresCH",
+          "link": "https://x.com/NachoTorresCH"
         },
         {
           "cargo": "Gobernador de Jujuy",
           "nombre": "Carlos Sadir",
-          "x": null,
-          "link": null
+          "x": "@carlossadir",
+          "link": "https://x.com/carlossadir"
         }
       ]
     },
@@ -375,8 +375,9 @@
         {
           "cargo": "Gobernador de Formosa",
           "nombre": "Gildo Insfrán",
-          "x": null,
-          "link": null
+          "x": "@AgenciaAgenfor",
+          "link": "https://x.com/AgenciaAgenfor",
+          "es_cuenta_institucional": true
         },
         {
           "cargo": "Gobernador de La Rioja",
