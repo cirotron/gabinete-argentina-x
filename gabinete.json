@@ -20,21 +20,15 @@
         },
         {
           "cargo": "Jefe de Gabinete",
-          "nombre": "Manuel Adorni",
-          "x": "@madorni",
-          "link": "https://x.com/madorni"
+          "nombre": "Diego Santilli",
+          "x": "@diegosantilli",
+          "link": "https://x.com/diegosantilli"
         },
         {
           "cargo": "Ministro de Economía",
           "nombre": "Luis Caputo",
           "x": "@luiscaputo",
           "link": "https://x.com/luiscaputo"
-        },
-        {
-          "cargo": "Ministro del Interior",
-          "nombre": "Diego Santilli",
-          "x": "@diegosantilli",
-          "link": "https://x.com/diegosantilli"
         },
         {
           "cargo": "Ministro de Defensa",
