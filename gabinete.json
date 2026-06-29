@@ -291,6 +291,166 @@
           "link": "https://x.com/AdrianRavier"
         }
       ]
+    },
+    {
+      "id": "poder-judicial",
+      "nombre": "Poder Judicial",
+      "descripcion": "Miembros de la Corte Suprema de Justicia de la Nación. Definen la constitucionalidad de las leyes y decretos del Ejecutivo.",
+      "color": "#1A237E",
+      "miembros": [
+        {
+          "cargo": "Presidente de la Corte Suprema",
+          "nombre": "Horacio Rosatti",
+          "x": null,
+          "link": null
+        },
+        {
+          "cargo": "Vicepresidente de la Corte Suprema",
+          "nombre": "Carlos Rosenkrantz",
+          "x": null,
+          "link": null
+        },
+        {
+          "cargo": "Ministro de la Corte Suprema",
+          "nombre": "Ricardo Lorenzetti",
+          "x": null,
+          "link": null
+        },
+        {
+          "cargo": "Ministro de la Corte Suprema",
+          "nombre": "Juan Carlos Maqueda",
+          "x": null,
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": "oposicion-dialoguista",
+      "nombre": "Oposición Legislativa Dialoguista",
+      "descripcion": "Referentes clave de los bloques del centro en el Congreso que facilitan u obstaculizan la aprobación de leyes clave.",
+      "color": "#00ACC1",
+      "miembros": [
+        {
+          "cargo": "Diputado / Jefe de Encuentro Federal",
+          "nombre": "Miguel Ángel Pichetto",
+          "x": "@MiguelPichetto",
+          "link": "https://x.com/MiguelPichetto"
+        },
+        {
+          "cargo": "Diputado / Jefe del Bloque UCR",
+          "nombre": "Rodrigo de Loredo",
+          "x": "@rodrigodeloredo",
+          "link": "https://x.com/rodrigodeloredo"
+        },
+        {
+          "cargo": "Senador / Presidente de la UCR",
+          "nombre": "Martín Lousteau",
+          "x": "@GugaLusto",
+          "link": "https://x.com/GugaLusto"
+        },
+        {
+          "cargo": "Diputado / Jefe del Bloque PRO",
+          "nombre": "Cristian Ritondo",
+          "x": "@cristianritondo",
+          "link": "https://x.com/cristianritondo"
+        }
+      ]
+    },
+    {
+      "id": "gobernadores-opositores",
+      "nombre": "Gobernadores Opositores",
+      "descripcion": "Mandatarios provinciales kirchneristas y de la oposición dura que confrontan abiertamente con las políticas del Gobierno nacional.",
+      "color": "#AD1457",
+      "miembros": [
+        {
+          "cargo": "Gobernador de Formosa",
+          "nombre": "Gildo Insfrán",
+          "x": null,
+          "link": null
+        },
+        {
+          "cargo": "Gobernador de La Rioja",
+          "nombre": "Ricardo Quintela",
+          "x": "@QuintelaRicardo",
+          "link": "https://x.com/QuintelaRicardo"
+        },
+        {
+          "cargo": "Gobernador de La Pampa",
+          "nombre": "Sergio Ziliotto",
+          "x": "@ZiliottoSergio",
+          "link": "https://x.com/ZiliottoSergio"
+        },
+        {
+          "cargo": "Gobernador de Tierra del Fuego",
+          "nombre": "Gustavo Melella",
+          "x": "@gustavomelella",
+          "link": "https://x.com/gustavomelella"
+        }
+      ]
+    },
+    {
+      "id": "poder-sindical",
+      "nombre": "Poder Sindical",
+      "descripcion": "Cúpula de la CGT que lidera la resistencia gremial y las movilizaciones obreras frente a las reformas económicas.",
+      "color": "#BF360C",
+      "miembros": [
+        {
+          "cargo": "Secretario General CGT (Sanidad)",
+          "nombre": "Héctor Daer",
+          "x": "@hectordaer",
+          "link": "https://x.com/hectordaer"
+        },
+        {
+          "cargo": "Secretario General CGT (Camioneros)",
+          "nombre": "Pablo Moyano",
+          "x": null,
+          "link": null
+        },
+        {
+          "cargo": "Sec. Relaciones Internacionales CGT (UOCRA)",
+          "nombre": "Gerardo Martínez",
+          "x": "@gmuocra",
+          "link": "https://x.com/gmuocra"
+        },
+        {
+          "cargo": "Secretario General CGT (SOESGyPE)",
+          "nombre": "Carlos Acuña",
+          "x": null,
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": "poder-economico",
+      "nombre": "Poder Económico (Círculo Rojo)",
+      "descripcion": "Grandes empresarios y líderes de cámaras del sector privado que influyen de manera directa en la economía nacional.",
+      "color": "#3E2723",
+      "miembros": [
+        {
+          "cargo": "Fundador y CEO de Mercado Libre",
+          "nombre": "Marcos Galperin",
+          "x": "@marcos_galperin",
+          "link": "https://x.com/marcos_galperin"
+        },
+        {
+          "cargo": "Presidente de la UIA",
+          "nombre": "Daniel Funes de Rioja",
+          "x": null,
+          "link": null
+        },
+        {
+          "cargo": "CEO de Grupo Techint",
+          "nombre": "Paolo Rocca",
+          "x": null,
+          "link": null
+        },
+        {
+          "cargo": "Presidente de Pan American Energy",
+          "nombre": "Alejandro Bulgheroni",
+          "x": null,
+          "link": null
+        }
+      ]
     }
   ]
 }
